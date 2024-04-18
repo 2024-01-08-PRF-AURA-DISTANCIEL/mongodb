@@ -1,4 +1,4 @@
-# Les architectures applicatives
+# MongoDB
 
 ![MongoDB](./mogo-db-logo.png)
 
